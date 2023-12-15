@@ -1,6 +1,6 @@
 # Customer Management API
 
-This project is a Node.js application using Express.js and MongoDB. It provides an API for managing customer information and includes features like user registration, login, OTP verification, and user data updates.
+This project is a Node.js application using Express.js and MongoDB. It provides an API for managing customer information and includes features like user registration, login, OTP verification(Using Twilio), and user data updates.
 
 ## Installation
 
